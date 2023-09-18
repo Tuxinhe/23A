@@ -12,4 +12,7 @@
 - [ ] 4th thing
 
 ```python
+s='python highlight text'
+print(s)
+
 ```
