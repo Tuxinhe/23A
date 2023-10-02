@@ -27,7 +27,7 @@ gantt
     使用者測試    :a11 , after a9, 25d
 ```
 
-# PERPT 圖
+# PERT 圖
 
 ![ERPT](ERPT.png "ERPT圖")
 
