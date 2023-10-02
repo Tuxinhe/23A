@@ -11,6 +11,6 @@ gantt
     anther task      : 24d
 ```
 
-# ERPT
+# PERPT 圖
 
 # 關鍵路徑圖
