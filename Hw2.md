@@ -29,7 +29,7 @@ gantt
 
 # PERT 圖
 
-![ERPT](ERPT.png "ERPT圖")
+![ERPT](PERT.png "ERPT圖")
 
 # 關鍵路徑圖
 關鍵路徑： 1 → 2 → 4 → 6 → 9 → 11
